@@ -1,0 +1,1 @@
+console.log("2-2=1 // 2-2=0^0 // 0^0=1 // ili ne imeet smisla, chto bolhe nravitsa // then 2-2=1")
